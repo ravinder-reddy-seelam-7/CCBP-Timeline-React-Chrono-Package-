@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.card-container {
+  width: 100%;
+}
+.course-title {
+}
+.card-title-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  line-height: 0;
+  margin-top: 5px;
+}
+.calender-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.tags-list-contaier {
+  display: flex;
+  flex-wrap: wrap;
+}
+.each-tag-list-item {
+  border: none;
+  margin-right: 10px;
+  margin-bottom: 12px;
+  border-radius: 2px;
+}
